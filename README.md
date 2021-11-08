@@ -1,5 +1,11 @@
 # 「BERTによる自然言語処理入門: Transformersを使った実践プログラミング」
 
+# 論文
+- [Devlin, Jacob, et al. "Bert: Pre-training of deep bidirectional transformers for language understanding." arXiv preprint arXiv:1810.04805 (2018).](https://arxiv.org/abs/1810.04805)
+
+- [Vaswani, Ashish, et al. "Attention is all you need." Advances in neural information processing systems. 2017.](https://arxiv.org/abs/1706.03762)
+
+
 こちらは、[「BERTによる自然言語処理入門: Transformersを使った実践プログラミング」、(編) ストックマーク株式会社、(著) 近江 崇宏、金田 健太郎、森長 誠 、江間見 亜利、（オーム社）](https://www.amazon.co.jp/dp/427422726X)のサポートページです。
 
 
